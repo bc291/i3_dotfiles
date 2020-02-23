@@ -1,0 +1,136 @@
+i  apt-transport-https - transitional package for https support
+i  aptitude - terminal-based package manager
+i  arandr - Simple visual front end for XRandR
+i  autoconf - automatic configure script builder
+i  automake - Tool for generating GNU Standards-compliant Makefiles
+i  baobab - GNOME disk usage analyzer
+i  blueman - Graphical bluetooth manager
+i  brscan4 - Brother Scanner Driver
+i  build-essential - Informational list of build-essential packages
+i  buttercup-desktop - Free and Open Source Password Vault
+i  ca-certificates - Common CA certificates
+i  chromium-browser - Chromium web browser, open-source version of Chrome
+i  cmake - cross-platform, open-source make system
+i  cmake-data - CMake data files (modules, templates and documentation)
+i  compton - compositor for X11, based on xcompmgr
+i  containerd.io - An open and reliable container runtime
+i  curl - command line tool for transferring data with URL syntax
+i  dash - POSIX-compliant shell
+i  dbeaver-ce - DBeaver Community
+i  dbus - simple interprocess messaging system (daemon and utilities)
+i  diffutils - File comparison utilities
+i  dkms - Dynamic Kernel Module Support Framework
+i  docker-ce - Docker: the open-source application container engine
+i  docker-ce-cli - Docker CLI: the open-source application container engine
+i  docker-compose - Punctual, lightweight development environments using Docker
+i  dunst - dmenu-ish notification-daemon
+i  findutils - utilities for finding files--find, xargs
+i  firefox-locale-en - English language pack for Firefox
+i  fish - friendly interactive shell
+i  fonts-font-awesome - iconic font designed for use with Twitter Bootstrap
+i  fonts-indic - Meta package to install all Indian language fonts
+i  g++ - GNU C++ compiler
+i  gdebi - simple tool to view and install deb files - GNOME GUI
+i  git - fast, scalable, distributed revision control system
+i  gnupg-agent - GNU privacy guard - cryptographic agent (dummy transitional package)
+i  golang-go - Go programming language compiler, linker, compiled stdlib
+i  google-cloud-sdk - Utilities for the Google Cloud Platform
+i  grep - GNU grep, egrep and fgrep
+i  grub-efi-amd64-signed - GRand Unified Bootloader, version 2 (EFI-AMD64 version, signed)
+i  gzip - GNU compression utilities
+i  hostname - utility to set/show the host name or domain name
+i  hyphen-en-us - English (US) hyphenation patterns
+i  i3 - metapackage (i3 window manager, screen locker, menu, statusbar)
+i  i3-wm - improved dynamic tiling window manager
+i  i3lock-fancy - i3lock custom wrapper script
+i  init - metapackage ensuring an init system is installed
+i  iputils-ping - Tools to test the reachability of network hosts
+i  konsole - X terminal emulator
+i  language-pack-en - translation updates for language English
+i  language-pack-en-base - translations for language English
+i  language-pack-gnome-en - GNOME translation updates for language English
+i  language-pack-gnome-en-base - GNOME translations for language English
+i  libasound2-dev - shared library for ALSA applications -- development files
+i  libbz2-dev - high-quality block-sorting file compressor library - development
+i  libcairo2-dev - Development files for the Cairo 2D graphics library
+i  libdbusmenu-gtk4 - library for passing menus over DBus - GTK+ version
+i  libev-dev - static library, header files, and docs for libev
+i  libffi-dev - Foreign Function Interface library (development files)
+i  libgail-common - GNOME Accessibility Implementation Library -- common modules
+i  libgail18 - GNOME Accessibility Implementation Library -- shared libraries
+i  libgtk2.0-0 - GTK+ graphical user interface library
+i  libgtk2.0-bin - programs for the GTK+ graphical user interface library
+i  libgtk2.0-common - common files for the GTK+ graphical user interface library
+i  libiw-dev - Wireless tools - development files
+i  libllvm6.0 - Modular compiler and toolchain technologies, runtime library
+i  libmpdclient-dev - client library for the Music Player Daemon (development files)
+i  libpango1.0-dev - Development files for the Pango
+i  libpulse-dev - PulseAudio client development headers and libraries
+i  libreadline-dev - GNU readline and history libraries, development files
+i  libreoffice-help-en-us - office productivity suite -- English_american help
+i  libsqlite3-dev - SQLite 3 development files
+i  libstartup-notification0-dev - library for program launch feedback (development headers)
+i  libtool - Generic library support script
+i  libxcb-composite0-dev - X C Binding, composite extension, development files
+i  libxcb-cursor-dev - utility libraries for X C Binding -- cursor, development files
+i  libxcb-ewmh-dev - utility libraries for X C Binding -- ewmh, development files
+i  libxcb-ewmh2 - utility libraries for X C Binding -- ewmh
+i  libxcb-icccm4-dev - utility libraries for X C Binding -- icccm, development files
+i  libxcb-image0-dev - utility libraries for X C Binding -- image, development files
+i  libxcb-keysyms1-dev - utility libraries for X C Binding -- keysyms, development files
+i  libxcb-randr0-dev - X C Binding, randr extension, development files
+i  libxcb-shape0-dev - X C Binding, shape extension, development files
+i  libxcb-util0-dev - dummy transitional package for utility libraries for X C Binding -- atom, aux and event
+i  libxcb-xinerama0-dev - X C Binding, xinerama extension, development files
+i  libxcb-xkb-dev - X C Binding, XKEYBOARD extension, development files
+i  libxcb-xrm-dev - utility functions for the X resource manager, development files
+i  libxcb-xrm0 - utility functions for the X resource manager
+i  libxcb1-dev - X C Binding, development files
+i  libxkbcommon-dev - library interface to the XKB compiler - development files
+i  libxkbcommon-x11-dev - library to create keymaps with the XKB X11 protocol - development files
+i  libxml2-dev - Development files for the GNOME XML library
+i  libxslt1-dev - XSLT 1.0 processing library - development kit
+i  libyajl-dev - Yet Another JSON Library - development files
+i  linux-headers-generic-hwe-18.04 - Generic Linux kernel headers
+i  linux-signed-generic-hwe-18.04 - Complete Signed Generic Linux kernel and headers (dummy transitional package)
+i  login - system login tools
+i  minidlna - lightweight DLNA/UPnP-AV server targeted at embedded systems
+i  mlocate - quickly find files on the filesystem based on their name
+i  mokutil - tools for manipulating machine owner keys
+i  mythes-en-us - English (USA) Thesaurus for LibreOffice
+i  ncurses-base - basic terminal type definitions
+i  ncurses-bin - terminal-related programs and man pages
+i  neofetch - Shows Linux System Information with Distribution Logo
+i  nm-tray - simple NetworkManager front end
+i  nmap - The Network Mapper
+i  nodejs - Node.js event-based server-side javascript engine
+i  openssl - Secure Sockets Layer toolkit - cryptographic utility
+i  pkg-config - manage compile and link flags for libraries
+i  pulseaudio - PulseAudio sound server
+i  python-dev - header files and a static library for Python (default)
+i  python-openssl - Python 2 wrapper around the OpenSSL library
+i  python-xcbgen - X C Binding - protocol binding generator
+i  python3-dev - header files and a static library for Python (default)
+i  python3-pip - Python package installer
+i  python3-tk - Tkinter - Writing Tk applications with Python 3.x
+i  python3.6-dev - Header files and a static library for Python (v3.6)
+i  python3.8 - Interactive high-level object-oriented language (version 3.8)
+i  python3.8-dev - Header files and a static library for Python (v3.8)
+i  rofi - window switcher, run dialog and dmenu replacement
+i  rxvt-unicode - RXVT-like terminal emulator with Unicode and 256-color support
+i  shim-signed - Secure Boot chain-loading bootloader (Microsoft-signed binary)
+i  software-properties-common - manage the repositories that you install software from (common)
+i  sur5r-keyring - GnuPG keys of the debian.sur5r.net archive
+i  teamviewer - Remote control and meeting solution.
+i  thunderbird-locale-en - English language pack for Thunderbird
+i  thunderbird-locale-en-us - Transitional English language pack for Thunderbird
+i  ubuntu-desktop - The Ubuntu desktop system
+i  ubuntu-minimal - Minimal core of Ubuntu
+i  ubuntu-standard - The Ubuntu standard system
+i  ubuntu-wallpapers - Ubuntu Wallpapers
+i  unclutter - hides the mouse cursor in X after a period of inactivity
+i  vim - Vi IMproved - enhanced vi editor
+i  virtualbox-6.1 - Oracle VM VirtualBox
+i  xcb - Pigeon holes for your cut and paste selections
+i  xcb-proto - X C Binding - protocol descriptions
+i  xutils-dev - X Window System utility programs for development
