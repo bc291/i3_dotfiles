@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-wal -i ~/Downloads/wallpaper.jpg
+wal -i ~/.config/wallpaper.jpg
 
 
 ~/.config/polybar/polybar.sh &
