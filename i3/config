@@ -95,7 +95,7 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-# lock system
+# lock the machine
 bindsym $mod+Shift+d exec ~/.config/lock.sh
 
 # Define names for default workspaces for which we configure key bindings later on.
